@@ -1,3 +1,5 @@
+#CREDIT: https://realpython.com/pygame-a-primer/
+
 # Import the pygame module
 import pygame
 
