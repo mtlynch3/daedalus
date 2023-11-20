@@ -1,0 +1,32 @@
+body {
+	background-color: #d1b6fc;
+	background-image: url("images/purplebinary.jpeg");
+	font-family: 'Ubuntu Mono', monospace;
+
+}
+
+.header {
+	background-color: #d1b6fc;
+	font-family: 'Neuton', serif;
+	width: 80%;
+	margin: auto;
+	text-align: center;
+	padding: 6px 18px;
+
+}
+
+.content {
+	background-color: #d1b6fc;
+	font-family: 'Ubuntu Mono', monospace;
+	width: 80%;
+	margin: auto;
+	padding: 6px 18px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border: solid 3px mediumpurple;
+}
