@@ -1,5 +1,6 @@
 body {
-	background-color: orange;
+	background-color: #e3eeff;
+	font-size: 100%;
 }
 
 .main {
@@ -8,4 +9,9 @@ body {
 	justify-content: center;
 	align-items: center;
 
+}
+
+
+p,li,h3 {
+  font-size: 1.2em;
 }
